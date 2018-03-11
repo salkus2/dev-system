@@ -1,2 +1,6 @@
+http://www.instructables.com/id/TOWA-Phone/
+
 https://hackaday.io/project/18871/instructions
+
+https://github.com/MarcoMartines/GSM-GPRS-GPS-Shield
 
